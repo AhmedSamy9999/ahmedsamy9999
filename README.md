@@ -1,8 +1,9 @@
 # 💫 About Me:
 
-💻 I'm Front-end Developer and UI Designer from Tanta, Egypt, working in web development.<br><br> 🖌️ I enjoy turning complex problems into simple, beautiful, and intuitive designs.<br><br>🛠️ My job is to build your website so that it is functional and user-friendly but at the same time attractive.<br><br> ✨ Moreover, I add a personal touch to your product and make sure that is eye-catching and easy to use.<br><br> 🎯 My aim is to bring across your message and identity in the most creative way.<br><be>
-<img width="1200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+💻 I'm Front-end Developer and UI Designer from Tanta, Egypt, working in web development.<br><br> 🖌️ I enjoy turning complex problems into simple, beautiful, and intuitive designs.<br><br>🛠️ My job is to build your website so that it is functional and user-friendly but at the same time attractive.<br><br> ✨ Moreover, I add a personal touch to your product and make sure that is eye-catching and easy to use.<br><br> 🎯 My aim is to bring across your message and identity in the most creative way.<br><br>
+<img width="1200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" /> <br><br> 
 
+---
 
 ## 🌐 Socials:
 
