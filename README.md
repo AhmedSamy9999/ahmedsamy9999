@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-💻 I'm Front-end Developer and UI Designer from Tanta, Egypt, working in web development.<br><br> 🖌️ I enjoy turning complex problems into simple, beautiful, and intuitive designs.<br><br>🛠️ My job is to build your website so that it is functional and user-friendly but at the same time attractive.<br><br> ✨ Moreover, I add a personal touch to your product and make sure that is eye-catching and easy to use.<br><br> 🎯 My aim is to bring across your message and identity in the most creative way.<br><br>
+💻 I'm Front-end Developer and UI Designer from Tanta, Egypt, working in web development.<br><br> 🖌️ I enjoy turning complex problems into simple, beautiful, and intuitive designs.<br><br>🛠️ My job is to build your website so that it is functional and user-friendly but at the same time attractive.<br><br> ✨ Moreover, I add a personal touch to your product and make sure that is eye-catching and easy to use.<br><br> 🎯 My aim is to bring across your message and identity in the most creative way.<br><be>
+<img width="1200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+
 
 ## 🌐 Socials:
 
@@ -8,7 +10,10 @@
 
 # 💻 Tech Stack:
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,vite,react,tailwindcss,materialui,express,mongo,planetscale,supabase,firebase,nodejs,bun,pnpm,npm,yarn,vercel,netlify,git,github,bootstrap,ts,js,html,css,sass,vscode,windows,figma,xd,pr)](https://skillicons.dev)
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="ShadCn UI" title="ShadCn UI"/>
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_ui.png" alt="Next UI" title="Next UI"/>
+
 
 # 📊 GitHub Stats:
 
