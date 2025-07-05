@@ -23,6 +23,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamy9999&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedSamy9999&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedSamy9999/AhmedSamy9999/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedSamy9999/AhmedSamy9999/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhmedSamy9999/AhmedSamy9999/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=ahmedsamy9999&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
