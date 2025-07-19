@@ -1,6 +1,9 @@
 # 💫 About Me:
 
-💻 I'm Front-end Developer and UI Designer from Tanta, Egypt, working in web development.<br><br> 🖌️ I enjoy turning complex problems into simple, beautiful, and intuitive designs.<br><br>🛠️ My job is to build your website so that it is functional and user-friendly but at the same time attractive.<br><br> ✨ Moreover, I add a personal touch to your product and make sure that is eye-catching and easy to use.<br><br> 🎯 My aim is to bring across your message and identity in the most creative way.<br><br>
+Frontend Developer skilled in React.js, Next.js, and JavaScript, focused on building responsive, high-performance web
+applications. Proficient in Tailwind CSS, HTML5, CSS3, and component libraries like Daisy UI/Shadcn. Experienced in
+dynamic UI animations using Framer Motion and full-stack integration via Node.js. Committed to clean, scalable code and
+user-centric design principles
 <img width="1200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" /> <br><br> 
 
 ---
