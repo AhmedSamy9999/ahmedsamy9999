@@ -1,9 +1,10 @@
 # 💫 About Me:
 
 Frontend Developer skilled in React.js, Next.js, and JavaScript, focused on building responsive, high-performance web
-applications. Proficient in Tailwind CSS, HTML5, CSS3, and component libraries like Daisy UI/Shadcn. Experienced in
-dynamic UI animations using Framer Motion and full-stack integration via Node.js. Committed to clean, scalable code and
-user-centric design principles
+applications. <br /> Proficient in Tailwind CSS, HTML5, CSS3, and component libraries like Daisy UI/Shadcn. <br /> Experienced in
+dynamic UI animations using Framer Motion and full-stack integration via Node.js. <br /> Committed to clean, scalable code and
+user-centric design principles.
+
 <img width="1200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" /> <br><br> 
 
 ---
